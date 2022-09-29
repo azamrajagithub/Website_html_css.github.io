@@ -1,0 +1,67 @@
+.flex-containe {
+    background-color: rgb(106, 130, 153);
+    display: flex;
+    height: 500px;
+
+
+}
+.flex-containe > div{
+   margin: 10px;
+   padding: 20px;
+   font-size: 35px;
+   width: 48%;
+   text-align: justify;
+   color: white;
+   
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 3px 3px 2px gray;
+}
+#tn{
+    height: 50px;
+    width:500px;
+    margin: 10px;
+}
+#ts{
+    height: 220px;
+    width:500px;
+    margin: 10px;
+}
+#bts{
+    font-size: 25px;
+    background-color: transparent;
+    color:white;
+    border-radius: 20px;
+    border: 2px solid white;
+    
+}
+.flex-contain {
+    background-color: white;
+    display: flex;
+    height: 250px;
+
+
+}
+.flex-contain > div{
+   margin: 10px;
+   padding: 20px;
+   font-size: 35px;
+   width: 48%;
+   text-align: justify;
+   
+   
+}
+#mg1{
+     height: 170px;
+     width: 300px;
+}
+#mg2{
+    height: 150px;
+    width: 200px;
+}
+#mg3{
+    height: 200px;
+    width: 300px;
+}

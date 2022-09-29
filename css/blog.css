@@ -1,0 +1,38 @@
+.flex-azam{
+   
+    display: flex;
+    height: 70px;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+.flex-azam > div{
+    background-color: grey;
+   margin: 20px;
+   padding: 30px;
+   width:25.22%;
+   height: 270px;
+}
+#gg1{
+    height: 160px;
+    width: 380px;
+}
+#paras{
+    text-align: justify;
+}
+#btt{
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    background-color: gainsboro;
+    transform: translatey(-35px);
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 3px 3px 2px gray;
+}
+#foot{
+    bottom: 0;
+    position: fixed;
+    
+}

@@ -1,0 +1,25 @@
+.flex-azzu{
+   
+    display: flex;
+    height: 70px;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+.flex-azzu > div{
+    background-color: grey;
+   margin: 20px;
+   padding: 30px;
+   width:42.22%;
+   height: 320px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 3px 3px 2px gray;
+}
+h2{
+     color:white;
+}
+p{
+    color:white
+}
